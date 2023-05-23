@@ -1,0 +1,17 @@
+1.  Cari 1 dataset untuk kasus regresi/klasifikasi dari internet!  
+2.  Gunakan orange untuk load dataset!
+3.  Plot dataset menggunakan 3 jenis plot yang berbeda!
+4.  Apabila dataset memiliki missing value, isi missing valuenya! (gak wajib)
+5.  Lakukan data sampling untuk membuat data training, validasi, dan testing! (rasio pembagian data bebas)
+6.  Buat 2 model menggunakan algoritma yang berbeda!
+7.  Uji model yang dibuat menggunakan data validasi!
+8.  Lakukan prediksi menggunakan model yang dibuat menggunakan data testing!
+9.  Kumpulkan!
+
+Soal Bonus:
+10. Dataset mengandung missing point!
+11. Jelaskan setiap hasil plot!
+12. Jelaskan perbedaan hasil dari 2 algoritma yang digunakan untuk membuat model!
+
+Suggestions:
+- Cari juga missing value nya
