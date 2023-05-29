@@ -1,0 +1,23 @@
+1) Introduce Git and GitHub
+
+2) Simple Usage of GitHub (Add repo, add, commit, pull)
+git config --global user.name "USERNAME"
+git config --global user.email "EMAIL@ABC.COM"
+
+Add repository (Don't add README first)
+
+git init
+git remote add origin <url.git>
+git branch -M main
+echo "# Kelompok X" >> README.md
+git add .
+git commit -m "First Commit"
+git push -u origin main
+
+Add 2 Folders
+Each folder should git clone first
+Then modify
+
+3) Git Fork & Pull Request
+
+4) git clone https://github.com/syasini/sophisticated_palette.git
