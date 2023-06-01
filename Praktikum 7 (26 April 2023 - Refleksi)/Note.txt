@@ -1,0 +1,8 @@
+Pengumpulan form refleksi melalui Ms Teams [26 April 2023]
+
+List Pertanyaan:
+- Refleksi (Ceritakan materi yang telah Anda pelajari selama 7 minggu Pratikum Machine Learning selama ini)!
+- Pertanyaan (Berikan hal yang ingin anda tanyakan/sampaikan selama 7 minggu Pratikum Machine Learning yang telah berlangsung)!
+- Tuliskan kesulitan & hambatan yang Anda alami selama 7 minggu pelaksanaan Pratikum Machine Learning!
+- Ada hal yang ingin Anda sampaikan mengenai rekan sekelompokmu selama 7 minggu ini? (Bisa sampaikan seperti kontribusinya, apakah membantu atau menghambat, afk kah, atau sbgnya)
+- Adakah saran/kritik sebagai bahan evaluasi untuk pelaksanaan pratikum kedepannya?
